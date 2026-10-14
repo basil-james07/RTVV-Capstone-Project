@@ -1,4 +1,4 @@
-# 📚 Deploying The RTVV – Reading Teaching Vocabulary Visualizer
+# 📚 The RTVV – Reading Teaching Vocabulary Visualizer
 
 > **Version:** 1.4 (Final Release)
 > **Built with:** Flutter (Android SDK 34, Java 21)
