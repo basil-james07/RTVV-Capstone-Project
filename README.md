@@ -131,7 +131,7 @@ If prompted:
 ## 🙌 **Credits**
 
 Developed by the **WordScan Team**
-**Krishnaprasad**, **Hassam**, **Kevin Alexander**, **Basil James**, **Khushmeet Kaur**
+**Krishnaprasad**, **Hassam**, **Kevin Alexander**, **Basil Chelackal Jameskutty**, **Khushmeet Kaur**
 
 ---
 
@@ -150,7 +150,7 @@ Developed by the **WordScan Team**
 ## 🔗 **Quick Links**
 
 - 🌍 [Download APK](https://github.com/Krishnaprasad2004/Deploying-The-RTVV/releases/download/v1.4_apk/RTVV.1.4.apk)
-- 📦 [GitHub Repository](https://github.com/Krishnaprasad2004/Deploying-The-RTVV)
+- 📦 [GitHub Repository](https://github.com/basil-james07/RTVV-Capstone-Project/blob/main/README.md)
 - 🎥 [Demonstration Video](https://youtu.be/eEuV8li9TJc)
 
 ---
